@@ -1,4 +1,4 @@
-# Serverless React Blog App Bootstraped using Tailwind CSS.
+# Serverless React-Blog-App bootstrapped using Tailwind CSS.
 
 ## Available Scripts
 
